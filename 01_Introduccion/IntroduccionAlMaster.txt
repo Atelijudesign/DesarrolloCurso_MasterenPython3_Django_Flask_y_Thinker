@@ -1,0 +1,255 @@
+A partir de ahora en el curso vamos a estar aprendiendo Python desde cero es decir te voy a enseñar
+
+a programar te voy a enseñar las bases de la programación y también te voy a enseñar Peyton desde cero
+
+y paso a paso vale haciendo ejercicio práctica y proyecto así que ahora en esta clase te voy a hacer
+
+una pequeña introducción a todo lo que vamos a estar aprendiendo a partir de ahora en el Master.
+
+Bien lo primero que vamos a ver en el curso son los primeros pasos con Peyton aquí en esta sección nos
+
+encargaremos de ver que Peyton para qué sirve cómo instalar Peyton como utiliza un editor de código
+
+como hacer un Hola mundo con Peyton como utilizar los comentarios de código etcétera.
+
+Luego pasaremos a la siguiente sección que será la de variables y tipo de datos en la cual desearé cómo
+
+crear variables como utilizar las variables en Peyton qué tipo de dato hay en Peyton cómo funcionan
+
+cómo convertir un tipo de dato a otro y diversas curiosidades acerca de variables y tipos de datos en
+
+la siguiente sección desearía trabajar con los operadores es decir aprendemos a trabajar con operadores
+
+aritméticos o operadores matemático aprenderemos a trabajar con operadores de asignación todo esto lo
+
+iremos viendo con el ejemplo e iremos practicando desde cero y paso a paso.
+
+Así que no te debes preocupar porque no tienes por qué tener ningún tipo de conocimiento previo en programación
+
+pero por eso hago este curso para enseñarte lo después en las siguientes sección estar enseñándote acerca
+
+de la entrada y la salida de datos es decir cómo meter datos por el teclado que le pidamos al usuario
+
+un dato una información y luego la salida de datos que es como imprimir por pantalla como mostrarle
+
+al usuario algún tipo de información.
+
+Después ya empezaremos con cosas muy interesantes como son las estructuras de control de acuerdo.
+
+Empezaremos por los condicionales que es lo que nos permite hacer una condición si se cumple esta condición
+
+ejecuta un bloque de código y si no porque se ejecute otro bloque de código entonces empezaremos aprendiendo
+
+el condicional if.
+
+También aprenderemos acerca de los operadores de comparación veremos cómo hacer if anidados veremos
+
+como utilizar la estructura de control también el IF cómo utilizar también los operadores lógicos en
+
+nuestras condiciones y veremos un montón de ejemplos pero muchísimo ejemplo con los condicionales.
+
+Después de aprender esto pasaremos a aprender otro tipo de estructura de control como es el caso de
+
+los bucles o estructura iterativa de acuerdo.
+
+Aprenderemos a trabajar con el bucle for que es uno de los bucles más populares en todos los lenguajes
+
+de programación.
+
+Veremos muchos ejemplos con el bucle for evidentemente.
+
+Luego Aprenderemos también a trabajar con el bucle guey que es otro tipo de bucle también super conocido
+
+en los lenguajes de programación y también veremos otro montón de ejemplo con el bucle Guaire bien y
+
+cuando aprendamos todo esto ya tendremos una base bastante sólida en la programación.
+
+Pero claro para uno interiorizar unos conocimientos que son totalmente nuevo vital e interesante hacer
+
+práctica y hacer ejercicio y practicar con todo esto.
+
+Por ello la siguiente sección será un bloque de ejercicios en los cuales vamos a practicar en profundidad
+
+con todo lo que hemos visto hasta ahora en los cuales reforzaremos todos los conocimientos acerca de
+
+variables operadores estructuras de control y todo lo que hemos visto hasta ahora en el curso.
+
+Bien después de este bloque de ejercicios pasaremos a aprender acerca de las funciones en Python.
+
+Intentaremos subir poco a poco de nivel de manera progresiva y en esta sección aprenderemos pues ya
+
+te digo a crear funciones como utilizar parámetros en funciones veremos muchos ejemplo evidentemente
+
+acerca de cómo trabajar con funciones parámetros opcionales veremos como trabajar con el retuve y veremos
+
+más ejemplos.
+
+También veremos funciones dentro de otras como invocar diferentes tipos de funciones.
+
+También aprenderemos a trabajar con funciones lambda aprenderemos acerca de variables locales y globales
+
+y veremos su diferencia también haciendo diferentes prácticas y también aprenderemos a trabajar con
+
+una serie de funciones predefinidas y métodos predefinidos que ya vienen dentro de Payton.
+
+Así que es una sección súper super interesante.
+
+Después de esto pasaremos a aprender acerca de las listas y las tuplas que es básicamente una colección
+
+de datos una variable con muchos datos dentro.
+
+Y aquí aprenderemos a crear lista a trabajar con los índices de la lista agregar elementos a una lista
+
+a recorrer y mostrar una lista.
+
+También veremos cómo trabajar con listas multidimensionales es decir que haya una lista dentro de la
+
+lista y así también evidentemente trabajaremos con funciones y métodos predefinidos para procesar y
+
+manipular estas listas de acuerdo.
+
+Así que un contenido súper súper potente también.
+
+Después pasaremos a trabajar con diccionarios y sets.
+
+Entonces aquí te explicaré cómo se trabaja con los sets cómo trabajar con los diccionarios y cómo trabajar
+
+también condicionaría dentro de lista.
+
+Veremos todo esto en profundidad y una vez que aprendamos esto ya tocará volver a practicar más y volver
+
+a hacer un bloque de ejercicios en el cual veremos una serie de ejercicios.
+
+También veremos bastantes ejercicios trabajando en conjunto con todo lo que hemos aprendido hasta ahora
+
+tanto a nivel de variables estructuras de control funciones listas todo haremos un montón de ejemplos
+
+y un montón de ejercicios que van a hacer que interioricen el contenido y que puedas practicar bien
+
+después de esto pasaremos a ver cómo trabajar con los módulos y los paquetes de Payton.
+
+Esto es muy interesante porque nos va a permitir separar las funcionalidades que vayamos desarrollando
+
+en nuestro programa en diferentes archivos y paquetes entonces veremos una introducción a los módulos
+
+que son ya veremos como crea el módulo como utiliza el módulo ya predefinidos como los módulos de fecha
+
+el módulo de operaciones matemáticas entre otros y también veremos cómo crear paquetes y cómo funcionan
+
+los paquetes.
+
+Además también aprenderemos a instalar el paquete externo que nos pueden servir para hacer diversas
+
+funcionalidades en nuestro programa.
+
+Después de esto pasaremos a ver cómo se trabaja con el sistema de archivos y directorios.
+
+Aprenderemos a abrir archivos crear archivos copiar archivos mover archivos eliminar el fichero y cómo
+
+trabajar con las diferentes carpetas haciendo lo mismo creándola editando la moviéndola y en definitiva
+
+usar el sistema de ficheros y directorios del sistema operativo mediante el lenguaje de programación
+
+Python.
+
+En la siguiente sección aprenderemos acerca del manejo de errores y también cómo capturar excepciones
+
+y todo eso de acuerdo.
+
+Empezaremos viendo lo más sencillo lo más básico que sería como captura un error.
+
+Haremos ejercicios con esto también dentro de la propia sección también veremos cómo capturan múltiples
+
+errores y cómo lanzar errores personalizados.
+
+Una sección súper importante también para poder hacer aplicaciones más robustas.
+
+Después de esto pasaremos a una de mis canciones favoritas del curso que es el tema de la programación
+
+orientada a objetos que es un paradigma de programación que nos va a permitir pensar todo en objetos
+
+y desarrollar aplicaciones de una mejor manera.
+
+Veremos una introducción a la programación orientada a objetos.
+
+Veremos en profundidad que es la programación orientada a objetos y cómo funciona.
+
+También aprenderemos de manera práctica a trabajar con clases y objetos a trabajar con métodos getter
+
+y sedes a trabajar con múltiples objetos.
+
+También aprenderemos a trabajar con el constructor de una clase.
+
+También aprenderemos a detectar el tipado de un objeto la visibilidad de atributo y método la herencia
+
+lo veremos también todo en profundidad haciendo mucho ejemplo y practicando bastante con esto de la
+
+programación orientada a objetos y después de esto ya tocaría empezar con el tema de la base de datos.
+
+Empezaremos a trabajar con las bases de datos dentro de Payton.
+
+Te haré una pequeña introducción acerca de qué es una base de datos y qué elementos componen una base
+
+de datos y luego empezaremos a trabajar con SQ light que es la base de datos por defecto que incluye
+
+Payton.
+
+Veremos cómo hacer la conexión desde Payton a nuestra base de datos como insertar y tardados como borrar
+
+datos y actualizar diferentes registros que tengamos en nuestras tablas de la base de datos y veremos
+
+lo más importante acerca de cómo manipular una base de datos de Sekulic utilizando Poitou y luego no
+
+contento con esto.
+
+También aprenderemos bases de datos y SQL utilizando Payton veremos cubital Malle SQL o un servidor
+
+de aplicaciones web que lo incluya también veremos cómo instalar módulos externo de Payton para poder
+
+trabajar con hoy SQL.
+
+Veremos cómo crear bases de datos SQL con Payton veremos cómo crear tablas de SQL también desde Payton
+
+cómo insertar registro como hacer consultas con condiciones.
+
+Cómo borrar y actualizar registro en fin veremos la operación es más importante que se pueden hacer
+
+en una base de datos utilizando Payton como el lenguaje de programación que tira esa consulta a la base
+
+de datos y después de esto ya pasaremos a hacer un proyecto con Payton y bases de datos.
+
+Iremos interactuando con la base de datos y también haremos uso de todo lo aprendido hasta ahora en
+
+el curso será un programita bastante interesante.
+
+Una vez que ya hayamos visto todo esto ya sabremos programar ya sabremos lo más importante de Payton
+
+sin ningún tipo de duda y ya tocaría empezar a hacer interfaces gráficas Montequinto al testear esta
+
+librería cómo se trabaja con ella y cómo se crea una interfaz gráfica y un programa de escritorio con
+
+Payton y ínter.
+
+Y después de esto pasaremos a aprender desarrollo web con Yango te enseñaré cómo utilizar Jango desde
+
+cero.
+
+Y paso a paso viendo todo lo más fundamental viendo todo lo más importante para poder crear aplicaciones
+
+web avanzadas con Payton y Yango.
+
+Y además después de esto también veremos flashback y veremos un montonazo de cosas más que no me caben
+
+realmente en diapositivas pero que serán también muy muy interesante.
+
+Así que a partir de la siguiente clase empezaremos a aprender todo esto.
+
+Empezaremos por los primeros pasos y sin duda te aseguro que va a aprender muchísimo este master vale.
+
+Así que a partir de la siguiente clase nos ponemos manos a la obra y vamos a empezar a aprender Payton
+
+desde cero.
+
+Y paso a paso hasta llegar a aprender todo su ecosistema completo.
+
+Nos vemos en la siguiente clase.
